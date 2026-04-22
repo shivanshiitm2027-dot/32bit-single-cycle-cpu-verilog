@@ -32,3 +32,8 @@ This project implements a 32-bit single-cycle CPU in Verilog.
 
 ## Notes
 This project is intended as a foundational CPU/datapath design project for learning computer architecture, RTL design, and digital system integration.
+## Waveform Output
+<img width="1602" height="846" alt="waveform" src="https://github.com/user-attachments/assets/5b69a2b9-b171-4ddc-b356-acd4a041df7e" />
+
+## Datapath / Block Diagram
+<img width="1549" height="869" alt="block diagram" src="https://github.com/user-attachments/assets/cdc7a147-0533-4c77-94c0-f87da76efc67" />
